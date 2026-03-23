@@ -1,1 +1,1 @@
-print("Hello，金生水")
+print('Hello，金生水')
